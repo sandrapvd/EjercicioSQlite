@@ -71,6 +71,10 @@ public class Principal extends JFrame implements ActionListener{
 
 	public static void main(String[] args) {
 		 new Principal();
+		 
+		 System.out.print("Primera línea para validar el repositorio local");
+		 System.out.print("Segunda línea para validar en el repositorio local");
+		 
 		}//fin main
    
 }//fin class 
